@@ -15,7 +15,7 @@ I am an Junior Web Developer and currently study at IDN Boarding School.
 - 💬 Ask me about anything, I am happy to respond;
 - 📫 How to reach me: send me message at my LinkedIn;
 - 🗃️ My works are divided into individual and organizational repos;
-- 📝 Please see my important works detail in [Resume](#).
+- 📝 Please see my important works detail in [Resume](https://drive.google.com/file/d/1D8zwSPDn8RCOqO025QWGQMMoI_LNrsQx/view?usp=sharing).
 
 </br>
 
