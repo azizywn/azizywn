@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azizywn.azizywn)
 
-I am an undergraduate computer science student in Binus University. 
+I am an Junior Web Developer and currently study at IDN Boarding School.
 
 <img align="right" alt="GIF" src="https://github.com/azizywn/azizywn/blob/main/coding.gif?raw=true" width="408" height="318" />
   
